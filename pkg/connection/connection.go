@@ -1,4 +1,4 @@
-package rcon
+package connection
 
 import (
 	"bytes"
